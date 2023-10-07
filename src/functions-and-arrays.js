@@ -1,4 +1,4 @@
-// Iteration #1: Find the maximum
+// Iteration #1: Find the maximum TEST!!
 function maxOfTwoNumbers() {}
 
 
